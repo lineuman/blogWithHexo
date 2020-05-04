@@ -32,7 +32,9 @@ http(s)://<user>.github.io/<repository> 或 http(s)://<organization>.github.io/<
 
 [https://lineuman.github.io/mainpage/](https://lineuman.github.io/mainpage/)
 
+# 项目流程
 
+提交代码->触发CI->CI构建
 
 # hexo
 
