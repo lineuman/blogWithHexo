@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/lineuman/lineuman.github.io.svg?branch=master)](https://travis-ci.com/lineuman/lineuman.github.io)
-
+[![Build Status](https://travis-ci.com/lineuman/blogWithHexo.svg?branch=master)](https://travis-ci.com/lineuman/blogWithHexo)
 
 # GitHub Pages的站点类型有三种
 ```
